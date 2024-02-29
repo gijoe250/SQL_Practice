@@ -13,5 +13,3 @@ desc pastries;
 show columns from pastries;
 
 drop table pastries;
-
-# more testing
