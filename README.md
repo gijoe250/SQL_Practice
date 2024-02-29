@@ -1,4 +1,3 @@
-# SQL_Practices
 # SQL_Practice
-# SQL_Practice
-# SQL_Practice
+
+This holds my current SQL practice
