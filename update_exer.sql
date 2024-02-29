@@ -17,3 +17,12 @@ update cats set age=12 where breed='maine coon';
 
 select * from cats;
 
+#delete: deletes based on what is given
+
+select * from cats where name='egg';
+
+delete from cats where name='egg';
+
+select * from cats;
+
+
