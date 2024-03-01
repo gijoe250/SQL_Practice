@@ -14,4 +14,4 @@ delete from cats where cat_id=age;
 
 select * from cats;
 
-delete from cats;
+delete from cats; #clears table data but keeps table intact
